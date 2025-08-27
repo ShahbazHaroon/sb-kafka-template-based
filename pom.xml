@@ -17,6 +17,7 @@
     <modules>
         <module>user-registration-service</module>
         <module>welcome-email-service</module>
+        <module>common-events</module>
     </modules>
 
     <properties>
